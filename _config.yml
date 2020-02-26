@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Undefined:/ a technical blog from Asa Needle 
+title: undefined - a technical blog from Asa Needle 
 email: asa@asaneedle.com
 description: >- # this means to ignore newlines until "baseurl:"
   A technical blog started at the Recurse Center, covering explorations in data science, web development, and the act of making. 
