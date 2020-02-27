@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week Two at the Recurse Center"
+title:  "Kicking off my blog at the Recurse Center"
 date:   2020-02-26 10:55:24 -0500
 categories: jekyll update
 ---
