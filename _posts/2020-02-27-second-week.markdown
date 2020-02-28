@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Week Two Recap"
+date: 2020-02-27 22:00:00 -500
 ---
 
 It's Thursday, and my second week is almost over. I started with a great deal of zeal. I was throwing myself into MIT Open Course Ware and am now in the process of stepping back and taking stock of what I've accomplished. 
