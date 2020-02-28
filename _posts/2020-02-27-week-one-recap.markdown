@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Week One Recap"
+date: 2020-02-27
 ---
 
 I'm going to start by recapping my first week here. The first day was a complete blur. I was just immersed in meeting everyone and adjusting to the space, both the physical space and the mental/cultural space of being surrounded by programmers and programming things constantly.
