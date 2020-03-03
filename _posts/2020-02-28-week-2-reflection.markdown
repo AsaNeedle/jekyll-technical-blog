@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "End of Week Two Reflections"
-date: 2020-02-28
+date: 2020-02-28 10:00 
 published: true
 ---
 This is a more thorough review of my last week culled from my notes. All in all, a very full week!
