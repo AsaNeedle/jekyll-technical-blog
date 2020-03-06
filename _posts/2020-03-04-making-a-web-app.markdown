@@ -10,7 +10,7 @@ I read this article on (authentication in react)[https://kentcdodds.com/blog/aut
 
 Then I was trying out how to deploy straight to (GitHub Pages from React)[https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f] and got it to work by adding an option in my package.json to create a branch just for deploying to GitHub Pages. 
 
-All in all, a day without a lot of time looking at actual code, which was good.
+All in all, a day with a lot of time looking at actual code, which was good.
 
 Love,
 Asa
