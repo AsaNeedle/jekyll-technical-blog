@@ -5,7 +5,7 @@ date: 2020-03-04 10:00
 published: true
 ---
 
-Today was a day focused on my dinky [little trello-style app][https://asaneedle.github.io/trello-style-app/].
+Today was a day focused on my dinky [little trello-style app](https://asaneedle.github.io/trello-style-app/).
 
 I read this article on [authentication in react](https://kentcdodds.com/blog/authentication-in-react-applications) using a higher-level component to manage what people see based on whether they are logged in or not. This something I want to learn how to do! 
 
