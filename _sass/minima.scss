@@ -10,9 +10,13 @@ $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
+
+
+$background-color: #f0ead6 !default;
 $text-color:       #111 !default;
-$background-color: #fdfdfd !default;
-$brand-color:      #2a7ae2 !default;
+$title-text-color: #8E622E !default;
+$brand-color:      #5d51b5 !default;
+
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
@@ -25,6 +29,26 @@ $content-width:    800px !default;
 
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
+
+//from Paletton
+
+$color-primary-0: #B17B3B;	// Main Primary color */
+$color-primary-1: #F6AD56;
+$color-primary-2: #D49448;
+$color-primary-3: #8E622E;
+$color-primary-4: #6A4922;
+
+$color-secondary-1-0: #B1913B;	// Main Secondary color (1) */
+$color-secondary-1-1: #F6CA56;
+$color-secondary-1-2: #D4AE48;
+$color-secondary-1-3: #8E742E;
+$color-secondary-1-4: #6A5622;
+
+$color-secondary-2-0: #343A7A;	// Main Secondary color (2) */
+$color-secondary-2-1: #4A53AA;
+$color-secondary-2-2: #3F4792;
+$color-secondary-2-3: #292E62;
+$color-secondary-2-4: #1E2249;
 
 // Use media queries like this:
 // @include media-query($on-palm) {

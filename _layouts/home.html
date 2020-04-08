@@ -21,8 +21,17 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+        <div>
+          {{ post.text | escape }}
+        </div>
+        
+        {%- if post.excerpt -%}
+        {{ post.excerpt }}
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          (...)
+        </a>
+        {%- else -%}
+        {{ post.content }}
         {%- endif -%}
       </li>
       {%- endfor -%}
